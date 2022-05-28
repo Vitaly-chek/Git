@@ -2,15 +2,13 @@
 
 1. На локальном репозитории сделать ветки для:
 
-```
-- Postman - git branch Postman;
-- Jmeter - git branch Jmeter;
-- CheckLists - git branch Check_Lists;
-- Bag Reports - git branch Bag_Reports;
-- SQL - git branch SQL;
-- Charles - git branch Cahrles;
-- Mobile testing - git branch Mobile_testing;
-```
+- Postman - `git branch Postman`;
+- Jmeter - `git branch Jmeter`;
+- CheckLists - `git branch Check_Lists`;
+- Bag Reports - `git branch Bag_Reports`;
+- SQL - `git branch SQL`;
+- Charles - `git branch Cahrles`;
+- Mobile testing - `git branch Mobile_testing`;
 
 2. Запушить все ветки на внешний репозиторий - `git push -u origin Postman Jmeter Chek_Lists Bag_Reports SQL Charles Mobile_testing`;
 
