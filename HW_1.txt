@@ -1,4 +1,4 @@
-1. На локальном репозитории сделать ветки для:
+git chekcout b1. На локальном репозитории сделать ветки для:
 
 - Postman - git branch Postman;
 - Jmeter - git branch Jmeter;
@@ -18,7 +18,7 @@
 
 6. Запушить main на внешний репозиторий - git push -u origin main;
 
-7. В ветке CheckLists набросать структуру чек листа - git checkout CHeck_Lists / touch checklist.txt;
+7. В ветке CheckLists набросать структуру чек листа - git checkout Check_Lists / touch checklist.txt;
 
 8. Запушить структуру на внешний репозиторий - git add . && git commit -m "new file checklist.txt" && git push;
 
