@@ -18,7 +18,7 @@
 
 5. Вмержить ветку Bag Reports в Main - `git checkout main / git merge Bag_Reports`;
 
-6. Запушить main на внешний репозиторий - `git push -u origin main`;
+6. Запушить main на внешний репозиторий - `git add . && git commit -m "new file bagreport.txt" && git push`;
 
 7. В ветке CheckLists набросать структуру чек листа - `git checkout CHeck_Lists / touch checklist.txt`;
 
